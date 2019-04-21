@@ -6,6 +6,5 @@ def countdown(num)
     i -= 1
     puts "#{i} SECOND(S)"
   end
-  return "happy new year".upcase
-  
+  return "HAPPY NEW YEAR"
 end
