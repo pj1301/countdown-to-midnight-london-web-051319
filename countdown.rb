@@ -6,5 +6,5 @@ def countdown(num)
     n -= 1
     puts "<n> SECOND(S)"
   end
-  return "HAPPY NEW YEAR"
+  return "HAPPY NEW YEAR!"
 end
