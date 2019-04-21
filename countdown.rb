@@ -11,6 +11,5 @@ def countdown(num)
 end
 
 def countdown_with_sleep(delay)
-  countdown(num)
-  sleep delay
+  runtime.real.to_i >= 5
 end
